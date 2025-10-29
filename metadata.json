@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NutriSnap AI",
+  "description": "An AI-powered nutrition tracking application that uses computer vision to analyze food photos and provide instant calorie and nutritional information, and an AI chatbot for nutritional advice.",
+  "requestFramePermissions": []
+}
